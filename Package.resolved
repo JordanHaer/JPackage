@@ -1,0 +1,15 @@
+{
+  "originHash" : "a268b852a3a2b706d9a27b5ac87b72ee3fa62ec6ef02aa2e3e3064d925b1ff54",
+  "pins" : [
+    {
+      "identity" : "jdependency",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JordanHaer/JDependency",
+      "state" : {
+        "branch" : "main",
+        "revision" : "93c20b8c29ca930763de00657d834bd7c4b02659"
+      }
+    }
+  ],
+  "version" : 3
+}

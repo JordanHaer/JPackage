@@ -1,2 +1,5 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+import JDependency
+
+public struct Foo {
+    public static let foo = Library.name
+}
